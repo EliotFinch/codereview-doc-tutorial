@@ -10,7 +10,7 @@ Welcome to codereview-doc-tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   user-guide
 
 Indices and tables
 ==================
