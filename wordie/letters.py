@@ -14,5 +14,5 @@ class letters:
         return self._s
 
     def shuffle(self):
-        """Shuffle the letters"""
+        """Shuffle the letters. Shuffling is done in-place."""
         self._s = ''.join(random.sample(self._s, len(self._s)))
