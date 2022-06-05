@@ -11,6 +11,7 @@ Welcome to codereview-doc-tutorial's documentation!
    :caption: Contents:
 
    user-guide
+   api
 
 Indices and tables
 ==================
